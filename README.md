@@ -2,7 +2,7 @@
 This project is a simple HTML list of To Do tasks built using webpack and served by a webpack dev server.
 
 
-![screenshot]()
+![screenshot](Snap.png)
 
 
 ## Built With
@@ -18,7 +18,7 @@ This project is a simple HTML list of To Do tasks built using webpack and served
 
 ## Live Demo
 
-[Live Demo]()
+[Live Demo](https://smart1-hub.github.io/PR-Todo-List/)
 
 ## Getting Started
 
