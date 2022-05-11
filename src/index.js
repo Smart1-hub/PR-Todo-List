@@ -24,11 +24,11 @@ const showList = () => {
   taskWrapper.innerHTML = '';
   for (let i = 0; i < tasks.length; i += 1) {
     taskWrapper.innerHTML += `
-    <form id="form">
+    <ul id="form">
       <input type="checkbox" id="${tasks[i].index}" name="task" value="task">
-      <label for="${tasks[i].index}">${tasks[i].description}</label>
+      <li for="${tasks[i].index}">${tasks[i].description}</li>
       <i class="fa fa fa-times"></i><br>
-    </form>
+    </ul>
     `;
   }
 };
