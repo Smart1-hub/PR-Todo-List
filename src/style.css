@@ -33,6 +33,7 @@ body {
   padding: 25px 20px;
   display: flex;
   justify-content: space-between;
+  background-color: rgb(142, 236, 213);
   border-bottom: 1px solid #000;
 }
 
